@@ -50,6 +50,10 @@
     * *validation des modifications (en local)*
 <br>
 
+- **cliquer "q" pour sortir**
+    * *sortir de la zone ouverte de message commit*
+<br>
+
 - **git push**
     * *pousse le travail sur le serveur (vers exterieur --> vers serveur)*
 <br>
@@ -65,11 +69,11 @@
 - **git status**
     * *permet de voir l'état du repository (fichier unstaged ou staged...)*
 <br>
- 
+
 - **git log**
     * *permet de voir l'historique des commits*
 <br>
- 
+
 - **git log --oneline**
     * *permet de voir l'historique des commits de manière plus courte*
 <br>
@@ -77,7 +81,7 @@
 - **git reset HEAD "nom fichier"**
     * *enlève le fichier de l'Index (unstaged)*
 <br>
-  
+
 - **git revert HEAD**
     * *Annuler le dernier commit (inverse les modifications)*
 <br>
@@ -86,7 +90,23 @@
     * *modifier la base de votre branche d'un commit à un autre, ce qui donne l'impression que vous aviez créé votre branche à partir d'un commit différent (exemple mise à jour à partir de main)*
 <br>
 
+- **git -v**
+    * *voir Version*
+<br>
 
-> <span style="text-align: center; color:white; margin: none; padding: 15px 0; background-color: gray; display: inline-block; width: 100%;">*Hugo L. Clavinas : BeCode 2023*</span>
+- **git config --list**
+    * *pour voir les informations de configuration*
+<br>
+
+- **git config --global user.name "votre nom"**
+    * *ajouter votre nom aux infos de la config*
+<br>
+
+- **git config --global user.email "votre email"**
+    * *ajouter votre email aux infos de la config*
+<br>
+
+
+> <span style="text-align: center; color:white; padding: 15px 0; background-color: gray; display: inline-block; width: 100%;">*Hugo L. Clavinas : BeCode 2023*</span>
 
 ---
