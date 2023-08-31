@@ -50,7 +50,7 @@
     * *validation des modifications (en local)*
 <br>
 
-- **cliquer "q" ou :wq pour sortir**
+- **cliquer "q" ou ":wq" pour sortir**
     * *sortir de la zone ouverte de message commit*
 <br>
 
