@@ -1,4 +1,4 @@
-# TERMINAL GIT
+# <span style="text-align: center; color:white; margin: none; padding: 15px 0; background-color: gray; display: inline-block; width: 100%;">*TERMINAL GIT*</span>
 
 ---
 
@@ -66,4 +66,6 @@
     * *modifier la base de votre branche d'un commit à un autre, ce qui donne l'impression que vous aviez créé votre branche à partir d'un commit différent (exemple mise à jour à partir de main)*
 <br>
 
-> Hugo Clavinas
+> <span style="text-align: center; color:white; margin: none; padding: 15px 0; background-color: gray; display: inline-block; width: 100%;">*Hugo L. Clavinas : BeCode 2023*</span>
+
+---
